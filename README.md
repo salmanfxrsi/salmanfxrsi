@@ -65,7 +65,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salmanfxrsi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanfxrsi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=salmanfxrsi&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=salmanfxrsi&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -76,30 +76,6 @@
 
 ###
 
-<h3 align="left">Connect With Me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/salman-farsi-468880318/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/salmanfxrsi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/salman.farsi.259647/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanfxrsi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/salmanfxrsi/salmanfxrsi/output/snake.svg" alt="Snake animation" />
 
 ###
