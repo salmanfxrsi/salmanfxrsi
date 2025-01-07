@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">I create seamless, user-friendly experiences, specializing in Front End Development, with a solid foundation in Back End Development for crafting dynamic and efficient web applications. Currently, I’m diving into machine learning to blend AI with development for even more innovative solutions.<br><br>Fun Fact: I often dream up coding solutions—literally!<br><br>As an outgoing and curious individual, I thrive on connecting with people, exploring cutting-edge technologies, and embracing life’s adventures. Whether I’m traveling or coding with coffee in hand, I bring enthusiasm and creativity to every project. Let’s turn ideas into extraordinary digital creations together 🚀</h6>
+<h6 align="left">I create seamless, user-friendly experiences, specializing in Front End Development, with a solid foundation in Back End Development for crafting dynamic and efficient web applications. Currently, I’m diving into machine learning to blend AI with development for even more innovative solutions.<br><br>Fun Fact: I often dream up coding solutions—literally!<br><br>As an outgoing and curious individual, I thrive on connecting with people, exploring cutting-edge technologies, and embracing life’s adventures. Whether I’m traveling or coding with coffee in hand, I bring enthusiasm and creativity to every project. Let’s turn ideas into codes together! 🚀</h6>
 
 ###
 
