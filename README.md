@@ -1,5 +1,5 @@
 <div>
-  <img style="width: 100%; height: 300;" src="https://i.ibb.co.com/dQCCgyF/White-and-Green-Simple-Professional-Business-Project-Presentation.jpg"  />
+  <img style="width: 100%; height: 300px;" src="https://i.ibb.co.com/dQCCgyF/White-and-Green-Simple-Professional-Business-Project-Presentation.jpg"  />
 </div>
 
 ###
