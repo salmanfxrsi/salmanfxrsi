@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">I'm Salman Farsi, a MERN Stack Web Developer from Bangladesh, passionate about crafting impactful web application.</h4>
+<h4 align="left">I'm Salman Farsi, a MERN Stack Developer from Bangladesh, passionate about crafting impactful web application.</h4>
 
 ###
 
